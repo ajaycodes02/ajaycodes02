@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ajay<br><br>💻 Frontend Developer | AI Developer | Tech Enthusiast<br><br>I’m passionate about building modern, responsive, and interactive web applications while also exploring the power of AI/ML in solving real-world problems.<br><br>🚀 What I Do<br><br>🌐 Build responsive websites with React, Tailwind CSS<br><br>⚡ Develop AI/ML projects like sales prediction & object detection<br><br><br>🎨 Focus on clean UI/UX with smooth animations and effects
+👋 Hi, I'm Ajay<br><br>💻 Frontend Developer | AI Developer | Tech Enthusiast<br><br>I’m passionate about building modern, responsive, and interactive web applications while also exploring the power of AI/ML in solving real-world problems.<br><br>🚀 What I Do<br><br>🌐 Build responsive websites with React, Tailwind CSS<br><br>⚡ Develop AI/ML projects like sales prediction & object detection<br><br>🎨 Focus on clean UI/UX with smooth animations and effects
 
 
 ## 🌐 Socials:
